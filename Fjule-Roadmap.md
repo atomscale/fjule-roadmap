@@ -1,6 +1,6 @@
 # fjule
 
-fjule shows you the **actual, true cost** of your ICE car, and helps you see if switching to an EV is **financially and environmentally** beneficial.
+fjule shows you the **actual, true cost** of your ICE vehicle, and helps you see if switching to an EV is **financially and environmentally** beneficial.
 
 ## Product Roadmap
 
