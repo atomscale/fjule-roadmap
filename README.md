@@ -28,7 +28,7 @@ ___
 **Status:** Private alpha\
 **Release Date:** Pending, before 31/12/22
 
-* Calcutlate the cost journeys (aka 'trijps') taken in a vehicle
+* Calculate the cost of journeys (aka 'trijps') taken in a vehicle
 * Save trijps for later reference
 
 ___
@@ -46,7 +46,7 @@ ___
 **Status:** Private alpha\
 **Release Date:** Pending, before 31/12/22
 
-* Add payment provider integration
+* Add payments integration
 
 ___
 
