@@ -8,7 +8,8 @@ ___
 
 **Version:** 0.1.0a\
 **Status:** Private alpha\
-**Release Date:** 11/11/2022
+**Target Release Date:** 11/11/2022
+**Expected** 18/11/2022
 
 * Public availablity at https://fjule.com as a mobile-first webapp
 * OAuth2 password flow for signup and signin using email
@@ -26,7 +27,7 @@ ___
 
 **Version:** 0.2.0a\
 **Status:** Private alpha\
-**Release Date:** Pending, before 31/12/22
+**Target Release Date:** Pending, before 31/12/22
 
 * Calculate the cost of journeys (aka 'trijps') taken in a vehicle
 * Save trijps for later reference
@@ -35,7 +36,7 @@ ___
 
 **Version:** 0.3.0a\
 **Status:** Private alpha\
-**Release Date:** Pending, before 31/12/22
+**Target Release Date:** Pending, before 31/12/22
 
 * Convert energy used in fossil fuel to estimated cost in electricity
 * Display cost comparison at fjuleUp, vehicle, trijp and user level
@@ -44,7 +45,7 @@ ___
 
 **Version:** 0.4.0a\
 **Status:** Private alpha\
-**Release Date:** Pending, before 31/12/22
+**Target Release Date:** Pending, before 31/12/22
 
 * Add payments integration
 
@@ -52,7 +53,7 @@ ___
 
 **Version:** 0.5.0b\
 **Status:** Private beta\
-**Release Date:** Pending, before 31/12/22
+**Target Release Date:** Pending, before 31/12/22
 
 * Private Beta testing
 
@@ -60,7 +61,7 @@ ___
 
 **Version:** 0.6.0b\
 **Status:** Public beta\
-**Release Date:** Pending, before 31/01/23
+**Target Release Date:** Pending, before 31/01/23
 
 * Public Beta Launch
 
